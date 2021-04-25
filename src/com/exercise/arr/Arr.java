@@ -10,6 +10,7 @@ public class Arr {
     public static void main(String[] args) {
 
         //数组定义格式
+        System.out.println("当前修改了一个标准输出");
         //数组初始化之动态初始化
         //内存分配
         //静态初始化
